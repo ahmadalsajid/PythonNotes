@@ -1,3 +1,6 @@
+__author__ = "Ahmad Al-Sajid"
+__email__ = "ahmadalsajid@gmail.com"
+
 distance = {
     'a': 366,
     'b': 0,
